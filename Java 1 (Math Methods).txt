@@ -37,15 +37,5 @@ public class Main {
         System.out.println("Chão: " + Math.floor(1.23));
 
         System.out.println("Mínimo: " + Math.min(10, 24));
-        System.out.println("Máximo: " + Math.max(5, 8));
-
-
-
-
-
-
-
-
-
-    }
+        System.out.println("Máximo: " + Math.max(5, 8));}
 }
